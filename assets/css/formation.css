@@ -57,6 +57,10 @@
   flex-direction: column;
 }
 
+.formation-content a {
+  color: #ffffff;
+}
+
 .formation-type {
   font-size: .875rem;
   text-transform: uppercase;
